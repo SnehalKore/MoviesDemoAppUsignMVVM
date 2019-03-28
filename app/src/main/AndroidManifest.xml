@@ -3,6 +3,7 @@
     package="moviesassignment.com.movies">
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
     <application
         android:name="moviesassignment.com.movies.application.MovieApplication"
         android:allowBackup="true"
